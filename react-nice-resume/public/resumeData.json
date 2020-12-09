@@ -1,109 +1,90 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Shreeven Kommireddy",
+    "description":"I am a full stack engineer and I use python, node and go to develop software for the internet.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"Self-motivated and gifted at finding reliable solutions for software issues. Experienced in creating databases, RESTful API and working to build scalable high performance back-end services along with offering skills in website development, app development as well as data science. Fluent in English and Telugu, whilst learning German and Spanish. Accustomed to working with cross-cultural, global teams",
+    "contactmessage":"Hi, if you would like to hire me or work with me, please do message me!",
+    "email": "Shreevenkr@gmail.com",
+    "phone": "+917032925187",
+    "github":"https://github.com/Shree3245",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Hyderabad",
+      "state":"Telangana State",
+      "zip": "500019"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://shree3245.github.io/resume/",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/shreeven.kommireddy/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/shreeven-kommireddy-b4043815a",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/shree1.reddy/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Shree3245",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Fluent in writing high scalable code in multiple languages. Proficient in developing websites, mobile apps as well as creating neural networks with high accuracies.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Mahindra Ecole Centrale?",
+        "degree":"Bachelors in Mechanical Engineering",
+        "graduated":"April 2021",
+        "description":"Learned to conccurently manage task and expand beyond the typical life of a daily student. Undertaken many projects in many different fields, learning to integrate my interdiciplinary background."
       }
+      
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Freelancer",
+        "title":"Full Stack Developer",
+        "years":"April 2017 - Present",
+        "description":"Created apps, websites and blockchain based softwares for companies across the world. Managed and lead large teams from a remote office ensuring collaboration and efficiency to ensure project completions. Wrote scalable code that is being used in deployment as well as software that increases production by 30% "
       }
     ],
     "skills":[
       {
         "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"React-Native",
+        "level":"60%"
       },
       {
-        "name":"ReactJs",
+        "name":"GoLang",
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
+        "name":"Docker",
         "level":"50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Data Science",
+        "level":"50%"
       }
+      
     ]
   },
   "portfolio":{
